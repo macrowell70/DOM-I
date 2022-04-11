@@ -65,7 +65,7 @@ const cta = document.querySelector(".cta");
 const ctaH1 = cta.querySelector("h1");
 const ctaButton = cta.querySelector("button")
 
-ctaH1.textContent = "DOM Is Awesome!"
+ctaH1.textContent = "DOM Is Awesome"
 ctaButton.textContent = "Get Started"
 
 const mainContent = document.querySelector(".main-content");
